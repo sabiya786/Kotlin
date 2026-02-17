@@ -1,0 +1,6 @@
+package TypesOfClasses
+
+class SealedClass {
+
+
+}
