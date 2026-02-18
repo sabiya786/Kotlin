@@ -1,6 +1,4 @@
-package TypesOfClasses
-
-import dataTypes.boolean
+package typesOfClasses
 
 data class DataClass(var a:Int, var b:Int)
 {

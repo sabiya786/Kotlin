@@ -1,4 +1,4 @@
-package NullSafety
+package nullSafety
 
 fun main()
 {
